@@ -1,5 +1,27 @@
 ## Welcome! I'm Aum.👋
 
+🎓 Graduate Student in Computer Science | AI & Machine Learning Enthusiast
+📍 Hofstra University | Passionate about Data Science, AI Systems & Applied ML Research
+
+🚀 About Me
+I am a Computer Science graduate student specializing in Machine Learning, Data Science, and Artificial Intelligence, with hands-on experience building end-to-end ML systems, research-oriented projects, and data-driven applications. My work spans predictive modeling, data analytics, deep learning, and applied AI systems, with a strong focus on transforming raw data into actionable insights.
+
+I enjoy working at the intersection of theory and application, particularly in areas such as:
+
+•	Machine Learning & Deep Learning
+
+•	Natural Language Processing (NLP)
+
+•	Large Language Models (LLMs)
+
+•	Retrieval-Augmented Generation (RAG)
+
+•	Data Analytics & Visualization
+
+•	Applied AI for real-world problem solving
+
+
+
 <!--
 **aumhirpara2001-stack/aumhirpara2001-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
