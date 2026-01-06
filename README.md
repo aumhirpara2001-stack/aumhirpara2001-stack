@@ -10,6 +10,8 @@ I enjoy working at the intersection of theory and application, particularly in a
 
 •	Machine Learning & Deep Learning
 
+•	Computer Vision
+
 •	Natural Language Processing (NLP)
 
 •	Large Language Models (LLMs)
