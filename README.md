@@ -3,7 +3,7 @@
 I’m a Software Engineer focused on ML systems and backend engineering, building production-style pipelines, evaluation frameworks, and infrastructure for machine learning workflows.
 
 🎓 M.S. in Computer Science (AI), Hofstra University
-💼 AI Researcher at Algoverse | Former Software Engineer at Addact Technologies
+💼 | AI Researcher at Algoverse | Former Software Engineer at Addact Technologies
  
 🚀 What I work on
 
