@@ -54,7 +54,6 @@ I’m looking for roles at the intersection of software engineering and machine 
  
 I care more about building reliable systems than just training models.
 
-<img width="468" height="629" alt="image" src="https://github.com/user-attachments/assets/93720d3f-a95c-4eee-a03f-8823dff21abc" />
 
 
 
