@@ -1,26 +1,61 @@
 ## Welcome! I'm Aum.👋
 
-🎓 Graduate Student in Computer Science | AI & Machine Learning Enthusiast
-📍 Hofstra University | Passionate about Data Science, AI Systems & Applied ML Research
+I’m a Software Engineer focused on ML systems and backend engineering, building production-style pipelines, evaluation frameworks, and infrastructure for machine learning workflows.
 
-🚀 About Me
-I am a Computer Science graduate student specializing in Machine Learning, Data Science, and Artificial Intelligence, with hands-on experience building end-to-end ML systems, research-oriented projects, and data-driven applications. My work spans predictive modeling, data analytics, deep learning, and applied AI systems, with a strong focus on transforming raw data into actionable insights.
+🎓 M.S. in Computer Science (AI), Hofstra University
+💼 AI Researcher at Algoverse | Former Software Engineer at Addact Technologies
+ 
+🚀 What I work on
 
-I enjoy working at the intersection of theory and application, particularly in areas such as:
+•	ML Systems & Evaluation Infrastructure (RAG, LLM pipelines, benchmarking frameworks)
 
-•	Machine Learning & Deep Learning
+•	Backend Engineering & APIs (ASP.NET, Python services, SQL-based systems)
 
-•	Computer Vision
+•	Data & Experiment Pipelines (reproducibility, orchestration, automation)
 
-•	Natural Language Processing (NLP)
+•	Scalable & Reliable Systems
+ 
+🧱 My background
 
-•	Large Language Models (LLMs)
+•	At Algoverse, I design and build modular, reproducible Python pipelines for evaluating LLMs across RAG and agent workflows, including data ingestion, batch execution, result aggregation, and automated validation tooling. My work focuses on experiment orchestration, reliability, and scalable evaluation infrastructure.
 
-•	Retrieval-Augmented Generation (RAG)
+•	At Addact Technologies, I worked on production backend systems using ASP.NET, C#, SQL Server, and Sitecore, building REST APIs, optimizing backend performance, and improving the reliability and maintainability of real-world applications.
 
-•	Data Analytics & Visualization
+ 
+📌 What you’ll find in my repositories
 
-•	Applied AI for real-world problem solving
+Most of my projects focus on:
+
+•	End-to-end ML systems and pipelines
+
+•	ML evaluation & experimentation infrastructure
+
+•	RAG and LLM tooling
+
+•	Backend services and data processing workflows
+
+These are system-oriented projects, not just notebooks or demos.
+
+ 
+🎯 What I’m interested in
+
+I’m looking for roles at the intersection of software engineering and machine learning platforms, where I can work on:
+
+•	Infrastructure
+
+•	Pipelines
+
+•	Tooling
+
+•	Reliability
+
+•	Performance and scale
+
+ 
+I care more about building reliable systems than just training models.
+
+<img width="468" height="629" alt="image" src="https://github.com/user-attachments/assets/93720d3f-a95c-4eee-a03f-8823dff21abc" />
+
 
 
 
