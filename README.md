@@ -48,7 +48,6 @@ I’m looking for roles at the intersection of software engineering and machine 
 •	Tooling
 
 •	Reliability
-
 •	Performance and scale
 
  
