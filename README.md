@@ -1,63 +1,58 @@
 ## Welcome! I'm Aum.👋
 
-I’m a Software Engineer focused on ML systems and backend engineering, building production-style pipelines, evaluation frameworks, and infrastructure for machine learning workflows.
+I'm an AI Researcher and ML Systems Engineer bridging cutting-edge research with production-grade infrastructure—building reproducible evaluation pipelines, self-improving RAG architectures, and scalable ML systems for real-world deployment.
 
-🎓 M.S. in Computer Science (AI), Hofstra University
-💼 | AI Researcher at Algoverse | Former Software Engineer at Addact Technologies
+🎓 M.S. Computer Science (AI), Hofstra University
+
+💼 AI Researcher @ Algoverse | Former Software Engineer @ Addact Technologies
+
+📄 ICLR 2026 (under review): Self-Improving RAG for Expert Financial QA
  
-🚀 What I work on
+🔬 Research & Engineering Focus
 
-•	ML Systems & Evaluation Infrastructure (RAG, LLM pipelines, benchmarking frameworks)
+Research: Self-improving agentic systems, LLM evaluation methodology, RAG architectures for regulated domains, reproducible AI experimentation
 
-•	Backend Engineering & APIs (ASP.NET, Python services, SQL-based systems)
+Engineering: Production ML pipelines, evaluation infrastructure, backend systems, experiment orchestration, audit-ready AI tooling
 
-•	Data & Experiment Pipelines (reproducibility, orchestration, automation)
+I work at the intersection of research innovation and systems reliability proposing novel architectures (multi-agent RAG with judge-driven retry) while building the infrastructure to benchmark, validate, and deploy them at scale.
 
-•	Scalable & Reliable Systems
- 
-🧱 My background
+🚀 What I Build
 
-•	At Algoverse, I design and build modular, reproducible Python pipelines for evaluating LLMs across RAG and agent workflows, including data ingestion, batch execution, result aggregation, and automated validation tooling. My work focuses on experiment orchestration, reliability, and scalable evaluation infrastructure.
-
-•	At Addact Technologies, I worked on production backend systems using ASP.NET, C#, SQL Server, and Sitecore, building REST APIs, optimizing backend performance, and improving the reliability and maintainability of real-world applications.
-
- 
-📌 What you’ll find in my repositories
-
-Most of my projects focus on:
-
-•	End-to-end ML systems and pipelines
-
-•	ML evaluation & experimentation infrastructure
-
-•	RAG and LLM tooling
-
-•	Backend services and data processing workflows
-
-These are system-oriented projects, not just notebooks or demos.
-
- 
-🎯 What I’m interested in
-
-I’m looking for roles at the intersection of software engineering and machine learning platforms, where I can work on:
-
-•	Infrastructure
-
-•	Pipelines
-
-•	Tooling
-
-•	Reliability
-
-•	Performance and scale
-
- 
-I care more about building reliable systems than just training models.
+Research Systems:
+* Multi-agent Self-Improving RAG achieving 86% oracle-guided accuracy on FinanceBench
+* Reproducible evaluation frameworks for grounding failures, numeric hallucinations, and consistency errors
+* Audit-ready logging and verification systems for regulated AI applications
+  
+Production Infrastructure:
+* Modular Python pipelines for LLM benchmarking across RAG/agent workflows
+* Data ingestion, batch execution, failure analysis, and automated reporting systems
+* Backend services (ASP.NET, C#, SQL Server) supporting enterprise applications
 
 
+🧱 Background
+
+@ Algoverse: Design production-grade evaluation infrastructure for LLMs orchestrating reproducible experiments across retrieval strategies, prompting regimes, and retry policies. Build multi-agent systems to detect failures and enable systematic benchmarking with interpretability and auditability.
+
+@ Addact Technologies: Built scalable backend services using ASP.NET Core, optimized SQL queries & Sitecore, maintained RESTful APIs, and improved system reliability for production web applications.
+
+Academic Research: Proposed self-improving RAG architectures with judge-driven verification, achieving state-of-the-art results on closed-domain financial QA with grounded numeric reasoning.
 
 
+📌 Repository Highlights
+Explore end-to-end systems that emphasize:
+* Research reproducibility (versioned datasets, experiment configs, systematic evaluation)
+* Production readiness (modular pipelines, error handling, logging, scalability)
+* Novel architectures (agentic RAG, multi-agent evaluation, self-improvement mechanisms)
+* Real-world applicability (healthcare ML, fraud detection, knowledge graphs, financial QA)
+These aren't demos—they're research-grade systems built with software engineering rigor.
 
+🎯 What Drives Me
+
+I'm passionate about making AI systems reliable, interpretable, and reproducible—whether that's publishing research on LLMs, machine learning, and deep learning or building the infrastructure that makes evaluation systematic and trustworthy.
+
+Looking for: Full-time roles building ML infrastructure, evaluation systems, or production AI platforms
+
+I care equally about advancing the science and shipping systems that work.
 <!--
 **aumhirpara2001-stack/aumhirpara2001-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
