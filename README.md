@@ -6,7 +6,6 @@ I'm an AI Researcher and ML Systems Engineer bridging cutting-edge research with
 
 💼 AI Researcher @ Algoverse | Former Software Engineer @ Addact Technologies
 
-📄 ICLR 2026 (under review): Self-Improving RAG for Expert Financial QA
  
 🔬 Research & Engineering Focus
 
