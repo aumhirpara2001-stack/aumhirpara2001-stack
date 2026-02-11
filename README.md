@@ -44,7 +44,7 @@ Explore end-to-end systems that emphasize:
 * Production readiness (modular pipelines, error handling, logging, scalability)
 * Novel architectures (agentic RAG, multi-agent evaluation, self-improvement mechanisms)
 * Real-world applicability (healthcare ML, fraud detection, knowledge graphs, financial QA)
-These aren't demos—they're research-grade systems built with software engineering rigor.
+These aren't demos they're research-grade systems built with software engineering rigor.
 
 🎯 What Drives Me
 
