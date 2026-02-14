@@ -1,6 +1,6 @@
 ## Welcome! I'm Aum.👋
 
-I'm an AI Engineer & Researcher building machine learning and agentic LLM systems for scalable, real-world AI applications. Specializing in multi-agent architectures, self-improving RAG pipelines, and production-ready AI infrastructure.
+I'm an AI Engineer & Researcher building machine learning and agentic LLM systems for scalable, real-world AI applications. Specializing in multi-agent architectures, RAG pipelines, and production-ready AI infrastructure.
 
 🎓 M.S. Computer Science (AI), Hofstra University
 
