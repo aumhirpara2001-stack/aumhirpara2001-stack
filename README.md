@@ -4,7 +4,7 @@ I'm an AI Engineer & Researcher building machine learning and agentic LLM system
 
 🎓 M.S. Computer Science (AI), Hofstra University
 
-💼 AI Researcher @ Algoverse | Former Software Engineer @ Addact Technologies
+💼 AI Research Fellow @ Algoverse | Former Software Engineer @ Addact Technologies
 
  
 🔬 Research & Engineering Focus
