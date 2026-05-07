@@ -4,7 +4,7 @@ I'm an AI Engineer & Researcher building machine learning and agentic LLM system
 
 🎓 M.S. Computer Science (AI), Hofstra University
 
-💼 AI Research Fellow @ Algoverse | Former Software Engineer @ Addact Technologies
+
 
  
 🔬 Research & Engineering Focus
@@ -26,15 +26,6 @@ Production Infrastructure:
 * Modular Python pipelines for LLM benchmarking across RAG/agent workflows
 * Data ingestion, batch execution, failure analysis, and automated reporting systems
 * Backend services (ASP.NET, C#, SQL Server) supporting enterprise applications
-
-
-🧱 Background
-
-@ Algoverse: Design production-grade evaluation infrastructure for LLMs orchestrating reproducible experiments across retrieval strategies, prompting regimes, and retry policies. Build multi-agent systems to detect failures and enable systematic benchmarking with interpretability and auditability.
-
-@ Addact Technologies: Built scalable backend services using ASP.NET Core, optimized SQL queries & Sitecore, maintained RESTful APIs, and improved system reliability for production web applications.
-
-Academic Research: Proposed self-improving RAG architectures with judge-driven verification, achieving state-of-the-art results on closed-domain financial QA with grounded numeric reasoning.
 
 
 📌 Repository Highlights
